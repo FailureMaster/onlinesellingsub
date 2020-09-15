@@ -1,0 +1,18 @@
+2020-09-15T00:48:02+00:00 CRITICAL Uncaught Error: Call to a member function get_instance_option_key() on bool in /home/ramircapit/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:2809
+Stack trace:
+#0 /home/ramircapit/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::shipping_zone_methods_save_changes('')
+#1 /home/ramircapit/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/ramircapit/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ramircapit/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_woocomm...')
+#4 {main}
+  thrown in /home/ramircapit/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 2809
+
+2020-09-15T00:48:03+00:00 CRITICAL Uncaught Error: Call to a member function get_instance_option_key() on bool in /home/ramircapit/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:2809
+Stack trace:
+#0 /home/ramircapit/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::shipping_zone_methods_save_changes('')
+#1 /home/ramircapit/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/ramircapit/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ramircapit/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_woocomm...')
+#4 {main}
+  thrown in /home/ramircapit/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 2809
+

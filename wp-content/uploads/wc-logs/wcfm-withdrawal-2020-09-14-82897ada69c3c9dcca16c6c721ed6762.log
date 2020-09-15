@@ -1,0 +1,20 @@
+2020-09-14T00:00:25+00:00 DEBUG PERIODIC WITHDRAWAL SCHEDULER START :: September 14, 2020 8:00 am
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal start. Vendor :: 34 Store :: Ralph Daryl Capit
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal payment method missing. Vendor :: 34 Store :: Ralph Daryl Capit
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal end. Vendor :: 34 Store :: Ralph Daryl Capit
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal start. Vendor :: 33 Store :: Ralph Daryl Capit
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal payment method missing. Vendor :: 33 Store :: Ralph Daryl Capit
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal end. Vendor :: 33 Store :: Ralph Daryl Capit
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal start. Vendor :: 43 Store :: Jonisol STORe
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal no pending commission. Vendor :: 43 Store :: Jonisol STORe
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal end. Vendor :: 43 Store :: Jonisol STORe
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal start. Vendor :: 45 Store :: Ramir-2
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal no pending commission. Vendor :: 45 Store :: Ramir-2
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal end. Vendor :: 45 Store :: Ramir-2
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal start. Vendor :: 32 Store :: Watch Seller
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal payment method missing. Vendor :: 32 Store :: Watch Seller
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal end. Vendor :: 32 Store :: Watch Seller
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal start. Vendor :: 50 Store :: test
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal payment method missing. Vendor :: 50 Store :: test
+2020-09-14T00:00:25+00:00 DEBUG Periodic withdrawal end. Vendor :: 50 Store :: test
+2020-09-14T00:00:25+00:00 DEBUG PERIODIC WITHDRAWAL SCHEDULER END :: September 14, 2020 8:00 am
